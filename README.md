@@ -1,5 +1,5 @@
 # bot
-## GETTTING STARTED
+## GETTING STARTED
   **Execute the program**
   ```
   python3 prod_bot.py

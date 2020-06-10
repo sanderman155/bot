@@ -20,7 +20,7 @@ from datetime import datetime # generate log
 import pickle
 
 
-filename = "model.pkl"
+filename = "model/model.pkl"
 with open(filename, 'rb') as f:
     model_pickled = f.read()
     model = pickle.loads(model_pickled)

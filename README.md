@@ -6,4 +6,4 @@
   ```
 ## Working with bot 
 
-  Click to that [link](https://t.me/sanderman_bot) and you will get to the telegram bot
+  Click to that [link](https://t.me/sanderman_bot) and you will get to the telegram bot.
